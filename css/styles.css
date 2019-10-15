@@ -1,0 +1,97 @@
+.container-fluid {
+  padding: 0;
+  max-width: 100%;
+}
+.navbar {
+  position: relative;
+  background-color: #2eb82e!important
+}
+h2 {
+  color: #333;
+}
+/* navigation links */
+#navbarNav ul li a {
+  color: #fff;
+  font-size: 1.5em;
+}
+
+#cloud {
+  display: block;
+  margin: 0 auto;
+  padding: 50px 0px 50px 0px;
+  background-color: #00ccff;
+
+}
+.about, .contact, .hours {
+  margin: 0 auto;
+}
+#about, #about h2 {
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+
+#contact, #contact h2 {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+}
+#hours, #hours h2 {
+  background-color: #fff;
+  color: #333;
+  padding: 20px;
+}
+#activities {
+  display: block;
+  margin: 0 auto;
+  padding: 50px 0px 50px 0px;
+  color: white;
+  /* background-color: fff; */
+}
+ #activities h2 {
+   color: white;
+   padding-bottom: 25px;
+ }
+
+.card-text {
+  position: absolute;
+  bottom: 0;
+
+
+}
+.card-title {
+  position: relative;
+}
+
+.card-img-top {
+  padding: 25px;
+}
+#stemCarousel {
+  max-width: 100%;
+  height: auto;
+}
+#carousel {
+}
+.carousel-item {
+  padding: 55px;
+  height: auto;
+  margin: 0 auto;
+  float: none;
+  max-width: 35%;
+}
+
+.carousel-control-next, .carousel-control-prev, .carousel-indicators {
+    filter: invert(100%);
+}
+footer {
+	position: relative;
+	width: 100%;
+  padding: 25px;
+	/* height: 150px; */
+}
+footer p {
+
+}
+footer span {
+
+}
